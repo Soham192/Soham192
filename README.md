@@ -4,9 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Engineering student passionate about building scalable backend systems  
-- 🌱 Currently learning **Spring Boot & Backend Architecture**  
-- 👯 Open to collaborating on **Java / Backend / Systems projects**  
+- 🎓 Computer Engineering student passionate about building scalable backend systems   
 - 💡 Interested in **networking, system internals, and performance engineering**  
 - 📫 Reach me at: **savesoham5@gmail.com**
 
